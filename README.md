@@ -14,5 +14,5 @@ The project-code.ipynb file is the code for:
 - comparing data to see if there's correlation
 - visualization (plots, graphs, etc.)
 
-The project-report.ipynb files is the report. Some images are missing but refer to the covid-report.pdf for everything.
+The project-report.ipynb files is the report. The images are missing but refer to the covid-report.pdf for everything.
 
